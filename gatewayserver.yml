@@ -27,5 +27,5 @@ info:
 logging:
     level:
         com:
-            banksystem:
+            pmu:
                 gatewayserver: DEBUG
